@@ -37,10 +37,10 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 
 | Certificação | Instituição | Ano | Link |
 |--------------|-------------|------|------|
-| AWS Certified Cloud Practitioner | AWS | 2024 | [Ver certificado](https://example.com) |
-| Terraform na Prática | Udemy | 2023 | [Ver certificado](https://example.com) |
-| Kubernetes Fundamentals | Linux Foundation | 2024 | [Ver certificado](https://example.com) |
-| CI/CD com GitHub Actions | Alura | 2023 | [Ver certificado](https://example.com) |
+| Introdução à infraestrutura de nuvem: descrever a arquitetura e os serviços do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/VTBNLASM?sharingId=BF9B37DFAAABB4F1) |
+| Introdução à infraestrutura de nuvem: descrever o gerenciamento e a governança do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/AKE3JEP7?sharingId=BF9B37DFAAABB4F1) |
+| AZ-104: pré-requisitos para administradores do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/9YGSFJXU?sharingId=BF9B37DFAAABB4F1) |
+| Introdução ao Microsoft Azure: Descrever conceitos de nuvem | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/UR6T6NC3?sharingId=BF9B37DFAAABB4F1) |
 
 ---
 
@@ -48,15 +48,15 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 
 - **Infraestrutura como Código com Terraform**  
   Provisionamento completo de ambiente AWS com VPC, EC2, RDS e S3 usando módulos reutilizáveis.  
-  🔗 [Repositório](https://github.com/seuusuario/terraform-aws-infra)
+  🔗 [Em andamento](https://github.com/seuusuario/terraform-aws-infra)
 
 - **Pipeline CI/CD com GitHub Actions**  
   Automação de testes, build e deploy de aplicação Node.js em ambiente Docker.  
-  🔗 [Repositório](https://github.com/seuusuario/devops-pipeline)
+  🔗 [Em andamento](https://github.com/seuusuario/devops-pipeline)
 
 - **Cluster Kubernetes com Helm Charts**  
   Deploy de microserviços em cluster K8s com Helm, Ingress Controller e autoscaling.  
-  🔗 [Repositório](https://github.com/seuusuario/k8s-microservices)
+  🔗 [Em andamento](https://github.com/seuusuario/k8s-microservices)
 
 ---
 
