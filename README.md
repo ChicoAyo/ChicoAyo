@@ -56,22 +56,6 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
   <img src="https://img.shields.io/badge/apache_kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
 </p>
 
-
-## 📜 Certificações em Destaque
-
-- ☁️ **Cloud & Infra:**
-  - ![Azure](https://img.shields.io/badge/Azure-AZ--900-blue?style=flat-square&logo=microsoft-azure&logoColor=white)
-  - ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws&logoColor=white)
-  - ![GCP](https://img.shields.io/badge/GCP-Digital_Leader-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-- 📊 **Observabilidade & SRE:**
-  - ![Grafana](https://img.shields.io/badge/Grafana-Loki_Specialist-F46800?style=flat-square&logo=grafana&logoColor=white)
-  - ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-e64415?style=flat-square&logo=prometheus&logoColor=white)
-
-- 🐍 **Desenvolvimento:**
-  - ![Python](https://img.shields.io/badge/Python-Advanced_Backend-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
 ## 📜 Certificados
 
 | Certificação | Instituição | Ano | Link |
@@ -80,8 +64,6 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 | Introdução à infraestrutura de nuvem: descrever o gerenciamento e a governança do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/AKE3JEP7?sharingId=BF9B37DFAAABB4F1) |
 | AZ-104: pré-requisitos para administradores do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/9YGSFJXU?sharingId=BF9B37DFAAABB4F1) |
 | Introdução ao Microsoft Azure: Descrever conceitos de nuvem | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/UR6T6NC3?sharingId=BF9B37DFAAABB4F1) |
-
----
 
 ## 🚀 Projetos em Destaque
 
@@ -97,14 +79,10 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
   Deploy de microserviços em cluster K8s com Helm, Ingress Controller e autoscaling.  
   🔗 [Em andamento](https://github.com/seuusuario/k8s-microservices)
 
----
-
 ## 📫 Contato
 
 - 📧 Email: chicoayodele@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/lfranciscosilva](https://linkedin.com/in/lfranciscosilva)  
-
----
 
 ## 📌 Sobre Mim
 
