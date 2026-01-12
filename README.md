@@ -56,6 +56,22 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
   <img src="https://img.shields.io/badge/apache_kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
 </p>
 
+
+## 📜 Certificações em Destaque
+
+- ☁️ **Cloud & Infra:**
+  - ![Azure](https://img.shields.io/badge/Azure-AZ--900-blue?style=flat-square&logo=microsoft-azure&logoColor=white)
+  - ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+  - ![GCP](https://img.shields.io/badge/GCP-Digital_Leader-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+- 📊 **Observabilidade & SRE:**
+  - ![Grafana](https://img.shields.io/badge/Grafana-Loki_Specialist-F46800?style=flat-square&logo=grafana&logoColor=white)
+  - ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-e64415?style=flat-square&logo=prometheus&logoColor=white)
+
+- 🐍 **Desenvolvimento:**
+  - ![Python](https://img.shields.io/badge/Python-Advanced_Backend-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
 ## 📜 Certificados
 
 | Certificação | Instituição | Ano | Link |
