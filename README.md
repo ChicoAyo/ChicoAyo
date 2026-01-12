@@ -4,33 +4,49 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🛠️ Tech Stack & Ferramentas
 
-- **Cloud Platforms:**  
-  - AWS (EC2, S3, IAM, Lambda, CloudWatch)  
-  - Azure (App Services, Functions, Monitor)  
-  - GCP (Compute Engine, Cloud Run, IAM)
+### 🐍 Linguagens & Desenvolvimento
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</p>
 
-- **Infraestrutura como Código:**  
-  - Terraform, AWS CloudFormation, Pulumi
+### 📊 Observabilidade & Monitoramento (SRE)
+<p align="left">
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/prometheus-e64415?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/loki-eeeeee?style=for-the-badge&logo=grafana&logoColor=orange" alt="Loki" />
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" alt="ELK" />
+  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+</p>
 
-- **Containers & Orquestração:**  
-  - Docker, Kubernetes (K8s), Helm
+### ☁️ Cloud & Infraestrutura
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-- **CI/CD & Automação:**  
-  - GitHub Actions, GitLab CI, Jenkins, ArgoCD  
-  - Bash, Python, PowerShell
+### 🗄️ Bancos de Dados & Mensageria
+<p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+</p>
 
-- **Monitoramento & Logging:**  
-  - Prometheus, Grafana, ELK Stack, Datadog
-
-- **Configuração & Gerência:**  
-  - Ansible, Chef, Puppet
-
-- **Segurança & Compliance:**  
-  - IAM, Secrets Management (Vault, AWS Secrets Manager)  
-  - Hardening, CIS Benchmarks
-
+### 🔧 Outras Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</p>
 ---
 
 ## 📜 Certificados
