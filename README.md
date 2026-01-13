@@ -115,6 +115,7 @@ Observability Pipeline: Python + Grafana Loki
 > 
 > **Descrição:** Projeto focado em SRE (Site Reliability Engineering) para monitoramento proativo de erros em sistemas distribuídos.
 
+---
 
 Infrastructure as Code (IaC) com Terraform: Gestão de GitHub
 
@@ -128,6 +129,8 @@ Infrastructure as Code (IaC) com Terraform: Gestão de GitHub
 > **Status:** Concluído ✅
 > 
 > **Descrição:** Implementação de Infraestrutura como Código para automação de provisionamento de repositórios, permissões de times e branch protection rules.
+
+---
 
 Pipeline de Integração e Entrega Contínua (CI/CD) com GitHub Actions
 
@@ -143,6 +146,7 @@ Pipeline de Integração e Entrega Contínua (CI/CD) com GitHub Actions
 > 
 > **Descrição:** Desenvolvimento de uma esteira automatizada de CI/CD para uma aplicação [Sua Linguagem, ex: Python], garantindo integridade de código e deploys resilientes.
 
+---
 
 Sistema de Telemetria Distribuída
 
