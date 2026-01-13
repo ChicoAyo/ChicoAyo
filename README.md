@@ -58,14 +58,46 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 
 ---
 
-## 📜 Certificados
+## 🎓 Certificações em Destaque
 
-| Certificação | Instituição | Ano | Link |
-|--------------|-------------|------|------|
-| Introdução à infraestrutura de nuvem: descrever a arquitetura e os serviços do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/VTBNLASM?sharingId=BF9B37DFAAABB4F1) |
-| Introdução à infraestrutura de nuvem: descrever o gerenciamento e a governança do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/AKE3JEP7?sharingId=BF9B37DFAAABB4F1) |
-| AZ-104: pré-requisitos para administradores do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/9YGSFJXU?sharingId=BF9B37DFAAABB4F1) |
-| Introdução ao Microsoft Azure: Descrever conceitos de nuvem | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/UR6T6NC3?sharingId=BF9B37DFAAABB4F1) |
+| Certificado | Instituição | Verificação |
+| :--- | :--- | :---: |
+| **Formação Avançada em Azure DevOps (Preparatório AZ-400)** | Microsoft | [Exibir](LINK) |
+| **Getting Started with AWS Cloud Essentials** | Amazon | [Exibir](https://skillbuilder.aws/4dcac975-8484-4371-8414-182093e98cdb) |
+| **Amazon EKS Primer** | Amazon | [Exibir](https://skillbuilder.aws/6d79264e-15d9-44ed-9a79-35733f0ebd33) |
+| **AWS Security Fundamentals Second Edition** | Amazon | [Exibir](https://skillbuilder.aws/6e3b40ed-6952-4a7d-9760-bcaaaed53fa6) |
+| **Google Cloud Computing Foundations: Cloud Computing Fundamentals** | Google | [Exibir](https://drive.google.com/drive/folders/1-190_cBd0nSL2NpOSD4Yer09iI-X48v9?usp=drive_link) |
+
+<details>
+  <summary><b>📂 Visualizar outros 23 cursos e especializações</b></summary>
+  <br>
+  
+  > *Este conjunto de especializações consolida meu domínio em **ecossistemas de alta disponibilidade**, abrangendo desde a automação de infraestrutura até a implementação de governança ágil.*
+  
+  - **Gerenciar o acesso à rede para cargas de trabalho de IA** - Microsoft
+  - **Governança de carga de trabalho de IA e DLP** - Microsoft
+  - **Monitorar cargas de trabalho de IA no Azure** - Microsoft
+  - **desenvolver uma estratégia de instrumentação** - Microsoft
+  - **desenvolver uma estratégia de SRE (Engenharia de Confiabilidade de Site)** - Microsoft
+  - **Implantar, gerenciar e monitorar contêineres do Windows no Serviço de Kubernetes do Azure** - Microsoft
+  - **Linux no Azure** - Microsoft
+  - **Introdução ao Kubernetes no Azure** - Microsoft
+  - **Automatizar seu fluxo de trabalho com o GitHub Actions** - Microsoft
+  - **Projetar e implementar engenharia de plataforma** - Microsoft
+  - **Implementar a segurança por meio de um pipeline usando o Azure DevOps** - Microsoft
+  - **Segurança Avançada do GitHub** - Microsoft
+  - **Criar e modificar scripts usando o Windows PowerShell** - Microsoft
+  - **Manter tarefas de administração do sistema no Windows PowerShell** - Microsoft
+  - **Introdução ao Windows PowerShell** - Microsoft
+  - **AZ-305: pré-requisitos do Microsoft Azure Architect Design** - Microsoft
+  - **Acelerar o desenvolvimento de aplicativos usando o GitHub Copilot** - Microsoft
+  - **GitHub Foundations** - Microsoft
+  - **Introdução à infraestrutura de nuvem: descrever a arquitetura e os serviços do Azure** - Microsoft
+  - **Introdução à infraestrutura de nuvem: descrever o gerenciamento e a governança do Azure** - Microsoft
+  - **AZ-104: pré-requisitos para administradores do Azure** - Microsoft
+  - **Introdução ao Microsoft Azure: Descrever conceitos de nuvem** - Microsoft
+
+</details>
 
 ---
 
