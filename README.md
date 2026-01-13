@@ -65,6 +65,10 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 | AZ-104: pré-requisitos para administradores do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/9YGSFJXU?sharingId=BF9B37DFAAABB4F1) |
 | Introdução ao Microsoft Azure: Descrever conceitos de nuvem | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/UR6T6NC3?sharingId=BF9B37DFAAABB4F1) |
 
+### 📂 Projetos Mais Relevantes
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USER&repo=NOME_DO_REPO&theme=tokyonight)](https://github.com/SEU_USER/NOME_DO_REPO)
+
+
 ## 🚀 Projetos em Destaque
 
 - **Infraestrutura como Código com Terraform**  
