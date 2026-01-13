@@ -148,21 +148,6 @@ Pipeline de Integração e Entrega Contínua (CI/CD) com GitHub Actions
 
 ---
 
-Sistema de Telemetria Distribuída
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-eeeeee?style=for-the-badge&logo=grafana&logoColor=orange" />
-</p>
-
-> **Status:** Concluído ✅
-> 
-> **Descrição:** Este projeto foca na automação de coleta de logs estruturados. Sem uma interface visual complexa, o poder está na eficiência do backend e na estruturação dos dados para consulta via LogQL.
-
----
-
----
 
 ## 🤝 Vamos nos conectar?
 
