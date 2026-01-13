@@ -68,7 +68,7 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 
 
 ### 📂 Projetos Mais Relevantes
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO&theme=tokyonight)](https://github.com/ChicoAyo/projeto-terraform)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ChicoAyo&repo=projeto-terraform&theme=tokyonight)](https://github.com/ChicoAyo/projeto-terraform)
 
 
 ## 🚀 Projetos em Destaque
