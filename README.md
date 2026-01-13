@@ -56,6 +56,7 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
   <img src="https://img.shields.io/badge/apache_kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
 </p>
 
+
 ## 📜 Certificados
 
 | Certificação | Instituição | Ano | Link |
@@ -65,8 +66,9 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 | AZ-104: pré-requisitos para administradores do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/9YGSFJXU?sharingId=BF9B37DFAAABB4F1) |
 | Introdução ao Microsoft Azure: Descrever conceitos de nuvem | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/UR6T6NC3?sharingId=BF9B37DFAAABB4F1) |
 
+
 ### 📂 Projetos Mais Relevantes
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USER&repo=NOME_DO_REPO&theme=tokyonight)](https://github.com/SEU_USER/NOME_DO_REPO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ChicoAyo&repo=projeto-terraform&theme=tokyonight)](https://github.com/ChicoAyo/projeto-terraform)
 
 
 ## 🚀 Projetos em Destaque
