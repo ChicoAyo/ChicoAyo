@@ -56,6 +56,7 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
   <img src="https://img.shields.io/badge/apache_kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
 </p>
 
+---
 
 ## 📜 Certificados
 
@@ -66,8 +67,52 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 | AZ-104: pré-requisitos para administradores do Azure | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/9YGSFJXU?sharingId=BF9B37DFAAABB4F1) |
 | Introdução ao Microsoft Azure: Descrever conceitos de nuvem | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/UR6T6NC3?sharingId=BF9B37DFAAABB4F1) |
 
+---
 
-### 🚀 Projeto: Sistema de Telemetria Distribuída
+### 🚀 Projetos em Destaque
+
+Observability Pipeline: Python + Grafana Loki
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-eeeeee?style=for-the-badge&logo=grafana&logoColor=orange" />
+</p>
+
+> **Status:** Concluído ✅
+> 
+> **Descrição:** Projeto focado em SRE (Site Reliability Engineering) para monitoramento proativo de erros em sistemas distribuídos.
+
+
+Infrastructure as Code (IaC) com Terraform: Gestão de GitHub
+
+<p align="left">
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Provider" />
+  <img src="https://img.shields.io/badge/HCL-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="HCL" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GH Actions" />
+</p>
+
+> **Status:** Concluído ✅
+> 
+> **Descrição:** Implementação de Infraestrutura como Código para automação de provisionamento de repositórios, permissões de times e branch protection rules.
+
+Pipeline de Integração e Entrega Contínua (CI/CD) com GitHub Actions
+
+<p align="left">
+  <img src="https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/YAML-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" alt="YAML" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+> **Status:** Concluído ✅
+> 
+> **Descrição:** Desenvolvimento de uma esteira automatizada de CI/CD para uma aplicação [Sua Linguagem, ex: Python], garantindo integridade de código e deploys resilientes.
+
+
+Sistema de Telemetria Distribuída
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -79,27 +124,31 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 > 
 > **Descrição:** Este projeto foca na automação de coleta de logs estruturados. Sem uma interface visual complexa, o poder está na eficiência do backend e na estruturação dos dados para consulta via LogQL.
 
+---
 
-## 🚀 Projetos em Destaque
+---
 
-- **Infraestrutura como Código com Terraform**  
-  Provisionamento completo de ambiente AWS com VPC, EC2, RDS e S3 usando módulos reutilizáveis.  
-  🔗 [Em andamento](https://github.com/seuusuario/terraform-aws-infra)
+## 🤝 Vamos nos conectar?
 
-- **Pipeline CI/CD com GitHub Actions**  
-  Automação de testes, build e deploy de aplicação Node.js em ambiente Docker.  
-  🔗 [Em andamento](https://github.com/seuusuario/devops-pipeline)
-
-- **Cluster Kubernetes com Helm Charts**  
-  Deploy de microserviços em cluster K8s com Helm, Ingress Controller e autoscaling.  
-  🔗 [Em andamento](https://github.com/seuusuario/k8s-microservices)
-
-## 📫 Contato
-
-- 📧 Email: chicoayodele@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/lfranciscosilva](https://linkedin.com/in/lfranciscosilva)  
-
-## 📌 Sobre Mim
-
-Tenho como foco a **automação de processos**, **resiliência de sistemas** e **observabilidade em ambientes distribuídos**. Acredito que DevOps é mais do que ferramentas — é cultura, colaboração e entrega contínua de valor.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Profissional</b><br>
+      Para propostas, parcerias ou dúvidas técnicas.
+    </td>
+    <td align="center" width="50%">
+      <b>Social & Tech</b><br>
+      Para networking e troca de experiências.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:chicoayodele@gmail.com">📫 E-mail Profissional</a><br>
+      <a href="https://www.linkedin.com/in/franciscocloud/">💼 LinkedIn</a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/11990203044">💬 WhatsApp</a><br>
+    </td>
+  </tr>
+</table>
 
