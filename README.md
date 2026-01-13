@@ -9,6 +9,7 @@ Engenheiro de DevOps e Infraestrutura especializado em projetar ecossistemas de 
 ### 🐍 Linguagens & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
@@ -144,7 +145,7 @@ Pipeline de Integração e Entrega Contínua (CI/CD) com GitHub Actions
 
 > **Status:** Concluído ✅
 > 
-> **Descrição:** Desenvolvimento de uma esteira automatizada de CI/CD para uma aplicação [Sua Linguagem, ex: Python], garantindo integridade de código e deploys resilientes.
+> **Descrição:** Desenvolvimento de uma esteira automatizada de CI/CD para uma aplicação Node.JS, garantindo integridade de código e deploys resilientes.
 
 ---
 
