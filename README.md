@@ -67,8 +67,17 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 | Introdução ao Microsoft Azure: Descrever conceitos de nuvem | Microsoft | 2025 | [Ver certificado](https://learn.microsoft.com/api/achievements/share/pt-br/ChicoAyo/UR6T6NC3?sharingId=BF9B37DFAAABB4F1) |
 
 
-### 📂 Projetos Mais Relevantes
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ChicoAyo&repo=projeto-terraform&theme=tokyonight)](https://github.com/ChicoAyo/projeto-terraform)
+### 🚀 Projeto: Sistema de Telemetria Distribuída
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-eeeeee?style=for-the-badge&logo=grafana&logoColor=orange" />
+</p>
+
+> **Status:** Concluído ✅
+> 
+> **Descrição:** Este projeto foca na automação de coleta de logs estruturados. Sem uma interface visual complexa, o poder está na eficiência do backend e na estruturação dos dados para consulta via LogQL.
 
 
 ## 🚀 Projetos em Destaque
