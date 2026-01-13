@@ -1,6 +1,6 @@
-# ⚙️ DevOps & Cloud Engineer | Automação, Infraestrutura e Escalabilidade
+#  DevOps Engineer | Cloud Infrastructure | Security & Compliance (DevSecOps) | Site Reliability Engineering (SRE) | Multicloud: Azure, AWS, GCP 
 
-Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como Código**, com experiência em automações, pipelines CI/CD, containers e orquestração. Busco oportunidades para aplicar soluções escaláveis, seguras e eficientes em ambientes de produção.
+Engenheiro de DevOps e Infraestrutura especializado em projetar ecossistemas de alta disponibilidade e resiliência. Com sólido domínio em Cloud Computing e IaC, foco na automação de ciclos de vida de software para reduzir o Time-to-Market e elevar a confiabilidade de ambientes críticos através de estratégias avançadas de observabilidade e segurança (DevSecOps).
 
 ---
 
@@ -101,7 +101,7 @@ Sou um profissional focado em **DevOps, Cloud Computing e Infraestrutura como C�
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 Observability Pipeline: Python + Grafana Loki
 
@@ -118,7 +118,7 @@ Observability Pipeline: Python + Grafana Loki
 
 Infrastructure as Code (IaC) com Terraform: Gestão de GitHub
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Provider" />
   <img src="https://img.shields.io/badge/HCL-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="HCL" />
@@ -131,7 +131,7 @@ Infrastructure as Code (IaC) com Terraform: Gestão de GitHub
 
 Pipeline de Integração e Entrega Contínua (CI/CD) com GitHub Actions
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/YAML-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" alt="YAML" />
