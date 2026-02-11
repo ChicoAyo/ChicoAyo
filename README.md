@@ -1,12 +1,12 @@
-#  DevOps Engineer | Cloud Infrastructure | Security & Compliance (DevSecOps) | Site Reliability Engineering (SRE) | Multicloud: Azure, AWS, GCP 
+#  SRE & Platform Engineer | DevSecOps | Azure Expert • AWS • GCP | IaC: Terraform • Ansible • Bicep | Kubernetes • CI/CD • Observability 
 
-Engenheiro de DevOps e Infraestrutura especializado em projetar ecossistemas de alta disponibilidade e resiliência. Com sólido domínio em Cloud Computing e IaC, foco na automação de ciclos de vida de software para reduzir o Time-to-Market e elevar a confiabilidade de ambientes críticos através de estratégias avançadas de observabilidade e segurança (DevSecOps).
+Com uma base sólida em Engenharia de Software e uma trajetória consolidada na Microsoft, atuo na intersecção entre Arquitetura de Nuvem, SRE e Governança de IA. Minha jornada começou na mecânica de precisão (SENAI), onde desenvolvi uma mentalidade analítica de "erro zero" que hoje aplico na construção de sistemas distribuídos resilientes e escaláveis.
 
 ---
 
-## 🛠️ Tech Stack Completa & Ferramentas
+## Tech Stack Completa & Ferramentas
 
-### 🐍 Linguagens & Backend
+### Linguagens & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
@@ -17,7 +17,7 @@ Engenheiro de DevOps e Infraestrutura especializado em projetar ecossistemas de 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
-### ☁️ Cloud & Infraestrutura (Multi-Cloud)
+### Cloud & Infraestrutura (Multi-Cloud)
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -29,7 +29,7 @@ Engenheiro de DevOps e Infraestrutura especializado em projetar ecossistemas de 
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 📊 Observabilidade & Logging
+### Observabilidade & Logging
 <p align="left">
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/prometheus-e64415?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
@@ -40,7 +40,7 @@ Engenheiro de DevOps e Infraestrutura especializado em projetar ecossistemas de 
   <img src="https://img.shields.io/badge/OpenTelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OTEL" />
 </p>
 
-### 🔄 CI/CD & Automação
+### CI/CD & Automação
 <p align="left">
   <img src="https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GH Actions" />
   <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
@@ -48,7 +48,7 @@ Engenheiro de DevOps e Infraestrutura especializado em projetar ecossistemas de 
   <img src="https://img.shields.io/badge/argo_cd-%23ef7b4d?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
 </p>
 
-### 🗄️ Dados & Cache
+### Dados & Cache
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -59,7 +59,7 @@ Engenheiro de DevOps e Infraestrutura especializado em projetar ecossistemas de 
 
 ---
 
-## 🎓 Certificações em Destaque
+## Certificações em Destaque
 
 | Certificado | Instituição | Verificação |
 | :--- | :--- | :---: |
@@ -70,7 +70,7 @@ Engenheiro de DevOps e Infraestrutura especializado em projetar ecossistemas de 
 | **Google Cloud Computing Foundations: Cloud Computing Fundamentals** | Google | [Exibir](https://drive.google.com/drive/folders/1-190_cBd0nSL2NpOSD4Yer09iI-X48v9?usp=drive_link) |
 
 <details>
-  <summary><b>📂 Visualizar outros 23 cursos e especializações</b></summary>
+  <summary><b> Visualizar outros 23 cursos e especializações</b></summary>
   <br>
   
   > *Este conjunto de especializações consolida meu domínio em **ecossistemas de alta disponibilidade**, abrangendo desde a automação de infraestrutura até a implementação de governança ágil.*
@@ -102,9 +102,9 @@ Engenheiro de DevOps e Infraestrutura especializado em projetar ecossistemas de 
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-Observability Pipeline: Python + Grafana Loki
+Observability Pipeline & Proactive Incident Management
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -112,13 +112,12 @@ Observability Pipeline: Python + Grafana Loki
   <img src="https://img.shields.io/badge/Loki-eeeeee?style=for-the-badge&logo=grafana&logoColor=orange" />
 </p>
 
-> **Status:** Concluído ✅
+> **Status:** Concluído 
 > 
-> **Descrição:** Projeto focado em SRE (Site Reliability Engineering) para monitoramento proativo de erros em sistemas distribuídos.
-
+> **Descrição:** Implementação de uma arquitetura de observabilidade focada na resiliência de sistemas distribuídos e na redução drástica do MTTR (Mean Time To Repair). O projeto consistiu no design de um pipeline de telemetria utilizando Python e Grafana Loki, permitindo o processamento e a análise de logs estruturados em tempo real.
 ---
 
-Infrastructure as Code (IaC) com Terraform: Gestão de GitHub
+GitHub Ecosystem Governance via Infrastructure as Code (Terraform)
 
 <p align="left">
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
@@ -127,13 +126,13 @@ Infrastructure as Code (IaC) com Terraform: Gestão de GitHub
   <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GH Actions" />
 </p>
 
-> **Status:** Concluído ✅
+> **Status:** Concluído 
 > 
-> **Descrição:** Implementação de Infraestrutura como Código para automação de provisionamento de repositórios, permissões de times e branch protection rules.
+> **Descrição:** Implementação de uma camada de governança e automação para o ecossistema GitHub utilizando Terraform (IaC). O projeto foca em substituir processos manuais por fluxos de trabalho programáticos, garantindo que a criação de repositórios, permissões e políticas de segurança sigam padrões corporativos rigorosos.
 
 ---
 
-Pipeline de Integração e Entrega Contínua (CI/CD) com GitHub Actions
+Automated CI/CD Strategy & DevSecOps Pipeline
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
@@ -144,14 +143,14 @@ Pipeline de Integração e Entrega Contínua (CI/CD) com GitHub Actions
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-> **Status:** Concluído ✅
+> **Status:** Concluído 
 > 
-> **Descrição:** Desenvolvimento de uma esteira automatizada de CI/CD para uma aplicação Node.JS, garantindo integridade de código e deploys resilientes.
+> **Descrição:** Desenvolvimento de uma arquitetura de Integração e Entrega Contínuas (CI/CD) focada na automação do ciclo de vida de aplicações baseadas em microsserviços. O objetivo central foi implementar uma cultura de Shift-Left Testing, movendo a validação de qualidade para as etapas iniciais do desenvolvimento.
 
 ---
 
 
-## 🤝 Vamos nos conectar?
+## Vamos nos conectar?
 
 <table>
   <tr>
@@ -166,11 +165,11 @@ Pipeline de Integração e Entrega Contínua (CI/CD) com GitHub Actions
   </tr>
   <tr>
     <td align="center">
-      <a href="mailto:chicoayodele@gmail.com">📫 E-mail Profissional</a><br>
-      <a href="https://www.linkedin.com/in/franciscocloud/">💼 LinkedIn</a>
+      <a href="mailto:chicoayodele@gmail.com"> E-mail Profissional</a><br>
+      <a href="https://www.linkedin.com/in/franciscocloud/"> LinkedIn</a>
     </td>
     <td align="center">
-      <a href="https://wa.me/11990203044">💬 WhatsApp</a><br>
+      <a href="https://wa.me/11990203044"> WhatsApp</a><br>
     </td>
   </tr>
 </table>
