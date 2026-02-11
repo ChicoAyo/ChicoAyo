@@ -63,7 +63,7 @@ With a solid foundation in Software Engineering and a proven track record at Mic
 
 | Certificate | Institution | Verification |
 | :--- | :--- | :---: |
-| **Formação Avançada em Azure DevOps (Preparatório AZ-400)** | Microsoft | [Exibir](LINK) |
+| **Advanced Azure DevOps Training (AZ-400 Prep)** | Microsoft | [Exibir](LINK) |
 | **Getting Started with AWS Cloud Essentials** | Amazon | [Exibir](https://skillbuilder.aws/4dcac975-8484-4371-8414-182093e98cdb) |
 | **Amazon EKS Primer** | Amazon | [Exibir](https://skillbuilder.aws/6d79264e-15d9-44ed-9a79-35733f0ebd33) |
 | **AWS Security Fundamentals Second Edition** | Amazon | [Exibir](https://skillbuilder.aws/6e3b40ed-6952-4a7d-9760-bcaaaed53fa6) |
@@ -75,28 +75,28 @@ With a solid foundation in Software Engineering and a proven track record at Mic
   
   > *This set of specializations consolidates my expertise in high-availability ecosystems, ranging from infrastructure automation to the implementation of agile governance.*
   
-  - **Gerenciar o acesso à rede para cargas de trabalho de IA** - Microsoft
-  - **Governança de carga de trabalho de IA e DLP** - Microsoft
-  - **Monitorar cargas de trabalho de IA no Azure** - Microsoft
-  - **desenvolver uma estratégia de instrumentação** - Microsoft
-  - **desenvolver uma estratégia de SRE (Engenharia de Confiabilidade de Site)** - Microsoft
-  - **Implantar, gerenciar e monitorar contêineres do Windows no Serviço de Kubernetes do Azure** - Microsoft
-  - **Linux no Azure** - Microsoft
-  - **Introdução ao Kubernetes no Azure** - Microsoft
-  - **Automatizar seu fluxo de trabalho com o GitHub Actions** - Microsoft
-  - **Projetar e implementar engenharia de plataforma** - Microsoft
-  - **Implementar a segurança por meio de um pipeline usando o Azure DevOps** - Microsoft
-  - **Segurança Avançada do GitHub** - Microsoft
-  - **Criar e modificar scripts usando o Windows PowerShell** - Microsoft
-  - **Manter tarefas de administração do sistema no Windows PowerShell** - Microsoft
-  - **Introdução ao Windows PowerShell** - Microsoft
-  - **AZ-305: pré-requisitos do Microsoft Azure Architect Design** - Microsoft
-  - **Acelerar o desenvolvimento de aplicativos usando o GitHub Copilot** - Microsoft
+  - **Managing Network Access for AI Workloads** - Microsoft
+  - **AI Workload Governance and DLP** - Microsoft
+  - **Monitoring AI Workloads on Azure** - Microsoft
+  - **Developing an Instrumentation Strategy** - Microsoft
+  - **Developing a Site Reliability Engineering (SRE) Strategy** - Microsoft
+  - **Deploying, Managing, and Monitoring Windows Containers on Azure Kubernetes Service (AKS)** - Microsoft
+  - **Linux on Azure** - Microsoft
+  - **Introduction to Kubernetes on Azure** - Microsoft
+  - **Automating your Workflow with GitHub Actions** - Microsoft
+  - **Designing and Implementing Platform Engineering** - Microsoft
+  - **Implementing Pipeline Security using Azure DevOps** - Microsoft
+  - **GitHub Advanced Security (GHAS)** - Microsoft
+  - **Creating and Modifying Scripts using Windows PowerShell** - Microsoft
+  - **Maintaining System Administration Tasks with Windows PowerShell** - Microsoft
+  - **Introduction to Windows PowerShell** - Microsoft
+  - **AZ-305: Microsoft Azure Infrastructure Design Prerequisites** - Microsoft
+  - **Accelerating Application Development with GitHub Copilot** - Microsoft
   - **GitHub Foundations** - Microsoft
-  - **Introdução à infraestrutura de nuvem: descrever a arquitetura e os serviços do Azure** - Microsoft
-  - **Introdução à infraestrutura de nuvem: descrever o gerenciamento e a governança do Azure** - Microsoft
-  - **AZ-104: pré-requisitos para administradores do Azure** - Microsoft
-  - **Introdução ao Microsoft Azure: Descrever conceitos de nuvem** - Microsoft
+  - **Cloud Infrastructure Introduction: Describing Azure Architecture and Services** - Microsoft
+  - **Cloud Infrastructure Introduction: Describing Azure Management and Governance** - Microsoft
+  - **AZ-104: Prerequisites for Azure Administrators** - Microsoft
+  - **Microsoft Azure Introduction: Describing Cloud Concepts** - Microsoft
 
 </details>
 
@@ -112,7 +112,7 @@ Observability Pipeline & Proactive Incident Management
   <img src="https://img.shields.io/badge/Loki-eeeeee?style=for-the-badge&logo=grafana&logoColor=orange" />
 </p>
 
-> **Status:** Concluído 
+> **Status:** Finished 
 > 
 > **Descrição:** Implementation of an observability architecture focused on distributed systems resilience and a drastic reduction in MTTR (Mean Time To Repair). The project involved designing a telemetry pipeline using Python and Grafana Loki, enabling real-time processing and analysis of structured logs.
 ---
@@ -126,7 +126,7 @@ GitHub Ecosystem Governance via Infrastructure as Code (Terraform)
   <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GH Actions" />
 </p>
 
-> **Status:** Concluído 
+> **Status:** Finished 
 > 
 > **Descrição:** Implementation of a governance and automation layer for the GitHub ecosystem using Terraform (IaC). The project focuses on replacing manual processes with programmatic workflows, ensuring that repository creation, permissions, and security policies adhere to rigorous corporate standards.
 
@@ -143,7 +143,7 @@ Automated CI/CD Strategy & DevSecOps Pipeline
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-> **Status:** Concluído 
+> **Status:** Finished 
 > 
 > **Descrição:** Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.
 
