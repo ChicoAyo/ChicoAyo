@@ -1,12 +1,12 @@
 #  SRE & Platform Engineer | DevSecOps | Azure Expert • AWS • GCP | IaC: Terraform • Ansible • Bicep | Kubernetes • CI/CD • Observability 
 
-Com uma base sólida em Engenharia de Software e uma trajetória consolidada na Microsoft, atuo na intersecção entre Arquitetura de Nuvem, SRE e Governança de IA. Minha jornada começou na mecânica de precisão (SENAI), onde desenvolvi uma mentalidade analítica de "erro zero" que hoje aplico na construção de sistemas distribuídos resilientes e escaláveis.
+With a solid foundation in Software Engineering and a proven track record at Microsoft, I work at the intersection of Cloud Architecture, SRE, and AI Governance. My journey began in precision mechanics (SENAI), where I developed a 'zero-error' analytical mindset that I now apply to building resilient and scalable distributed systems.
 
 ---
 
-## Tech Stack Completa & Ferramentas
+## Full Tech Stack & Tools
 
-### Linguagens & Backend
+### Languages & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
@@ -17,7 +17,7 @@ Com uma base sólida em Engenharia de Software e uma trajetória consolidada na 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
-### Cloud & Infraestrutura (Multi-Cloud)
+### Cloud & Infrastructure (Multi-Cloud)
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -29,7 +29,7 @@ Com uma base sólida em Engenharia de Software e uma trajetória consolidada na 
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### Observabilidade & Logging
+### Observability & Logging
 <p align="left">
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/prometheus-e64415?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
@@ -40,7 +40,7 @@ Com uma base sólida em Engenharia de Software e uma trajetória consolidada na 
   <img src="https://img.shields.io/badge/OpenTelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OTEL" />
 </p>
 
-### CI/CD & Automação
+### CI/CD & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GH Actions" />
   <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
@@ -48,7 +48,7 @@ Com uma base sólida em Engenharia de Software e uma trajetória consolidada na 
   <img src="https://img.shields.io/badge/argo_cd-%23ef7b4d?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
 </p>
 
-### Dados & Cache
+### Data & Caching
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -59,9 +59,9 @@ Com uma base sólida em Engenharia de Software e uma trajetória consolidada na 
 
 ---
 
-## Certificações em Destaque
+## Featured Certifications
 
-| Certificado | Instituição | Verificação |
+| Certificate | Institution | Verification |
 | :--- | :--- | :---: |
 | **Formação Avançada em Azure DevOps (Preparatório AZ-400)** | Microsoft | [Exibir](LINK) |
 | **Getting Started with AWS Cloud Essentials** | Amazon | [Exibir](https://skillbuilder.aws/4dcac975-8484-4371-8414-182093e98cdb) |
@@ -70,10 +70,10 @@ Com uma base sólida em Engenharia de Software e uma trajetória consolidada na 
 | **Google Cloud Computing Foundations: Cloud Computing Fundamentals** | Google | [Exibir](https://drive.google.com/drive/folders/1-190_cBd0nSL2NpOSD4Yer09iI-X48v9?usp=drive_link) |
 
 <details>
-  <summary><b> Visualizar outros 23 cursos e especializações</b></summary>
+  <summary><b> View other 23 courses and specializations </b></summary>
   <br>
   
-  > *Este conjunto de especializações consolida meu domínio em **ecossistemas de alta disponibilidade**, abrangendo desde a automação de infraestrutura até a implementação de governança ágil.*
+  > *This set of specializations consolidates my expertise in high-availability ecosystems, ranging from infrastructure automation to the implementation of agile governance.*
   
   - **Gerenciar o acesso à rede para cargas de trabalho de IA** - Microsoft
   - **Governança de carga de trabalho de IA e DLP** - Microsoft
@@ -102,7 +102,7 @@ Com uma base sólida em Engenharia de Software e uma trajetória consolidada na 
 
 ---
 
-## Projetos em Destaque
+## Featured Projects
 
 Observability Pipeline & Proactive Incident Management
 
@@ -114,7 +114,7 @@ Observability Pipeline & Proactive Incident Management
 
 > **Status:** Concluído 
 > 
-> **Descrição:** Implementação de uma arquitetura de observabilidade focada na resiliência de sistemas distribuídos e na redução drástica do MTTR (Mean Time To Repair). O projeto consistiu no design de um pipeline de telemetria utilizando Python e Grafana Loki, permitindo o processamento e a análise de logs estruturados em tempo real.
+> **Descrição:** Implementation of an observability architecture focused on distributed systems resilience and a drastic reduction in MTTR (Mean Time To Repair). The project involved designing a telemetry pipeline using Python and Grafana Loki, enabling real-time processing and analysis of structured logs.
 ---
 
 GitHub Ecosystem Governance via Infrastructure as Code (Terraform)
@@ -128,7 +128,7 @@ GitHub Ecosystem Governance via Infrastructure as Code (Terraform)
 
 > **Status:** Concluído 
 > 
-> **Descrição:** Implementação de uma camada de governança e automação para o ecossistema GitHub utilizando Terraform (IaC). O projeto foca em substituir processos manuais por fluxos de trabalho programáticos, garantindo que a criação de repositórios, permissões e políticas de segurança sigam padrões corporativos rigorosos.
+> **Descrição:** Implementation of a governance and automation layer for the GitHub ecosystem using Terraform (IaC). The project focuses on replacing manual processes with programmatic workflows, ensuring that repository creation, permissions, and security policies adhere to rigorous corporate standards.
 
 ---
 
@@ -145,27 +145,27 @@ Automated CI/CD Strategy & DevSecOps Pipeline
 
 > **Status:** Concluído 
 > 
-> **Descrição:** Desenvolvimento de uma arquitetura de Integração e Entrega Contínuas (CI/CD) focada na automação do ciclo de vida de aplicações baseadas em microsserviços. O objetivo central foi implementar uma cultura de Shift-Left Testing, movendo a validação de qualidade para as etapas iniciais do desenvolvimento.
+> **Descrição:** Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.
 
 ---
 
 
-## Vamos nos conectar?
+## Let's Connect!
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <b>Profissional</b><br>
-      Para propostas, parcerias ou dúvidas técnicas.
+      <b>Professional</b><br>
+     For proposals, partnerships, or technical inquiries.
     </td>
     <td align="center" width="50%">
       <b>Social & Tech</b><br>
-      Para networking e troca de experiências.
+      For networking and sharing experiences.
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="mailto:chicoayodele@gmail.com"> E-mail Profissional</a><br>
+      <a href="mailto:chicoayodele@gmail.com"> Professional Email </a><br>
       <a href="https://www.linkedin.com/in/franciscocloud/"> LinkedIn</a>
     </td>
     <td align="center">
