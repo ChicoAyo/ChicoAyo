@@ -1,6 +1,7 @@
-#  SRE & Platform Engineer | DevSecOps | Azure Expert • AWS • GCP | IaC: Terraform • Ansible • Bicep | Kubernetes • CI/CD • Observability 
+#  SRE & Platform Engineer | Azure & IaC Specialist
 
-With a solid foundation in Software Engineering and a proven track record at Microsoft, I work at the intersection of Cloud Architecture, SRE, and AI Governance. My journey began in precision mechanics (SENAI), where I developed a 'zero-error' analytical mindset that I now apply to building resilient and scalable distributed systems.
+Hello! :) 
+I'm Luiz, an SRE & Platform Engineer with solid experience at Microsoft. I am responsible for sustaining mission-critical environments with a focus on maintaining a 99.9% SLA, acting directly on the front lines of global incidents. I have hands-on expertise in IaC, Orchestration, Containers, Observability, CI/CD, GitOps, Cloud Providers, Scripting Languages, and Development.
 
 ---
 
