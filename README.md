@@ -1,10 +1,10 @@
-#  SRE & Platform Engineer | Azure & IaC Specialist
+#  Platform & Site Reliability Engineer | Cloud Architecture | Founder at Mestre da Nuvem | Published Author
 
-Hello! :) 
-I'm Luiz, an SRE & Platform Engineer with solid experience at Microsoft. I am responsible for sustaining mission-critical environments with a focus on maintaining a 99.9% SLA, acting directly on the front lines of global incidents. I have hands-on expertise in IaC, Orchestration, Containers, Observability, CI/CD, GitOps, Cloud Providers, Scripting Languages, and Development.
+I am a Site Reliability & Platform Engineer with experience at Microsoft, supporting multi-region production environments with 99.9%+ SLA, enabling more than 20 engineering teams and managing 12+ AKS clusters in production.
+
+My work focuses on reliability, scalability, and operational efficiency. I led initiatives that reduced MTTR by 35% through improved observability practices, structured incident response, and thorough root cause analysis. By standardizing CI/CD pipelines and implementing GitOps workflows, I helped increase deployment frequency by 15% while improving release stability and predictability.
 
 ---
-
 ## Full Tech Stack & Tools
 
 ### Languages & Backend
@@ -59,7 +59,6 @@ I'm Luiz, an SRE & Platform Engineer with solid experience at Microsoft. I am re
 </p>
 
 ---
-
 ## Featured Certifications
 
 | Certificate | Institution | Verification |
@@ -166,8 +165,8 @@ Automated CI/CD Strategy & DevSecOps Pipeline
   </tr>
   <tr>
     <td align="center">
-      <a href="mailto:chicoayodele@gmail.com"> Professional Email </a><br>
-      <a href="https://www.linkedin.com/in/franciscocloud/"> LinkedIn</a>
+      <a href="mailto:luizfds.tech@gmail.com"> Professional Email </a><br>
+      <a href="https://www.linkedin.com/in/lfdsilva/"> LinkedIn</a>
     </td>
     <td align="center">
       <a href="https://wa.me/11990203044"> WhatsApp</a><br>
