@@ -114,7 +114,7 @@ Observability Pipeline & Proactive Incident Management
 
 > **Status:** Finished 
 > 
-> **Descrição:** Implementation of an observability architecture focused on distributed systems resilience and a drastic reduction in MTTR (Mean Time To Repair). The project involved designing a telemetry pipeline using Python and Grafana Loki, enabling real-time processing and analysis of structured logs.
+> **Description:** Implementation of an observability architecture focused on distributed systems resilience and a drastic reduction in MTTR (Mean Time To Repair). The project involved designing a telemetry pipeline using Python and Grafana Loki, enabling real-time processing and analysis of structured logs.
 ---
 
 GitHub Ecosystem Governance via Infrastructure as Code (Terraform)
@@ -128,7 +128,7 @@ GitHub Ecosystem Governance via Infrastructure as Code (Terraform)
 
 > **Status:** Finished 
 > 
-> **Descrição:** Implementation of a governance and automation layer for the GitHub ecosystem using Terraform (IaC). The project focuses on replacing manual processes with programmatic workflows, ensuring that repository creation, permissions, and security policies adhere to rigorous corporate standards.
+> **Description:** Implementation of a governance and automation layer for the GitHub ecosystem using Terraform (IaC). The project focuses on replacing manual processes with programmatic workflows, ensuring that repository creation, permissions, and security policies adhere to rigorous corporate standards.
 
 ---
 
@@ -145,7 +145,7 @@ Automated CI/CD Strategy & DevSecOps Pipeline
 
 > **Status:** Finished 
 > 
-> **Descrição:** Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.
+> **Description:** Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.
 
 ---
 
