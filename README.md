@@ -1,4 +1,4 @@
-#  Platform & SRE | Cloud Architecture | Founder @ Mestre da Nuvem | Author | Building Resilient & Cost-Efficient Platforms
+#  DevOps & SRE Engineer | Microsoft Azure Cloud Specialist | Founder @ Mestre da Nuvem & Author | Platform Engineering
 
 I am a Site Reliability & Platform Engineer with experience at Microsoft, supporting multi-region production environments with 99.9%+ SLA, enabling more than 20 engineering teams and managing 12+ AKS clusters in production.
 
