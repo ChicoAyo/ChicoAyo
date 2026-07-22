@@ -145,7 +145,7 @@ Automated CI/CD Strategy & DevSecOps Pipeline
 
 > **Status:** Finished 
 > 
-> **Description:** Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.
+> **Description:** Development of a Continuous Integration and Continuous Delivery (CI/CD) architecture focused on automating the lifecycle of microservices-based applications. The core objective was to implement a Shift-Left Testing culture, moving quality validation to the early stages of the development cycle.
 
 ---
 
